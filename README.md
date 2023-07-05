@@ -1,4 +1,4 @@
-## PROJETO SISTEMA BANCÁRIO COM PYTHON
+## PROJETO - SISTEMA BANCÁRIO COM PYTHON
 
 Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
 
